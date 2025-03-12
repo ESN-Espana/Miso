@@ -1,2 +1,13 @@
-# Miso
-Proyecto Andrés, webmaster de ESN Oviedo el cual busca centralizar el control de oficinas y asistencia a eventos
+´´´
+ ___      ___  ___  ___  ________   ______    
+|"  \    /"  ||"  \/"  |/"       ) /    " \   
+ \   \  //   | \   \  /(:   \___/ // ____  \  
+ /\\  \/.    |  \\  \/  \___  \  /  /    ) :) 
+|: \.        |  /   /    __/  \\(: (____/ //  
+|.  \    /:  | /   /    /" \   :)\        /   
+|___|\__/|___||___/    (_______/  \"_____/    
+                                              
+´´´
+
+# ¿Qué es MISO?
+"My Section Organization" es una herramienta para gestionar el seguimiento de actividad del voluntariado. Así como poder coordinar la reserva de las oficinas de las secciones.
