@@ -1,3 +1,4 @@
+
 ´´´
  ___      ___  ___  ___  ________   ______    
 |"  \    /"  ||"  \/"  |/"       ) /    " \   
@@ -11,3 +12,4 @@
 
 # ¿Qué es MISO?
 "My Section Organization" es una herramienta para gestionar el seguimiento de actividad del voluntariado. Así como poder coordinar la reserva de las oficinas de las secciones.
+
